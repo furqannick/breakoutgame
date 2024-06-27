@@ -1,0 +1,13 @@
+body {
+    display: contents ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #243f4d;
+}
+
+#game {
+    background-color: #000;
+    margin-top: 10rem;
+    border: 2px solid #fff;
+}
